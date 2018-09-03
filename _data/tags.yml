@@ -1,0 +1,20 @@
+life:
+  name: life
+  description: False
+  cover: False
+tech:
+  name: tech
+  description: False
+  cover: False
+home:
+  name: home
+  description: False
+  cover: False
+work:
+  name: work
+  description: False
+  cover: False
+misc:
+  name: misc
+  description: False
+  cover: False

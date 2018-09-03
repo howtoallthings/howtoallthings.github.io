@@ -1,0 +1,8 @@
+mary:
+  username: marysmith
+  name: Mary Smith
+  url_full: https://howtoallthings.com/
+  url: howtoallthings.com
+  bio: Writes "How to" guides on various topics. Loves traveling with a bag of kites.
+  picture: assets/images/mary.png
+  cover: False

@@ -1,2 +1,1 @@
-# howtoallthings.github.io
-https://howtoallthings.com
+# [https://howtoallthings.com](https://howtoallthings.com)
